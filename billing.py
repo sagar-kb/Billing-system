@@ -1,3 +1,4 @@
+#Billing system in python 
 class Product:
     def __init__(self, name, price):
         self.name = name
